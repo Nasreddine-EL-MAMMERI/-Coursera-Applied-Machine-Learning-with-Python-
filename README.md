@@ -1,2 +1,2 @@
 # -Coursera-Applied-Machine-Learning-with-Python-
-This repository contains solutions of all assignments of University of Michigan's Applied Machine Learning with python course.
+This repository contains - Starter files, Coursework, Programming Assignments for the course --> Applied Machine Learning in Python, University of Michigan [COURSERA]
